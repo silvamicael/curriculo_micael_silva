@@ -1,48 +1,38 @@
 # 💼 Currículo — Micael Schosek Da Silva
 
-Currículo profissional desenvolvido em **HTML5 e CSS3**, criado para apresentar minha experiência, formação, conhecimentos técnicos e projetos de forma simples, organizada e responsiva.
+Este repositório contém meu currículo profissional em formato web, desenvolvido com **HTML5 e CSS3**.
 
-## 👨‍💻 Sobre mim
+A proposta foi criar uma versão simples, organizada e responsiva do meu currículo, reunindo minha formação, experiência profissional, conhecimentos técnicos e projetos em um único lugar.
 
-Sou estudante do curso **Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI**, com foco em desenvolvimento **Full Stack**.
+## Sobre mim
 
-Tenho conhecimentos em desenvolvimento web, integração entre front-end e back-end, bancos de dados, APIs e versionamento de código.
+Sou estudante do curso **Técnico em Análise e Desenvolvimento de Sistemas no SENAI** e venho direcionando meus estudos para desenvolvimento **Full Stack**.
 
-Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estagiário em Desenvolvimento de Software**.
+Tenho contato prático com desenvolvimento front-end e back-end, APIs REST, bancos de dados e versionamento de código com Git e GitHub.
 
-## 🚀 Sobre o projeto
+Atualmente busco uma oportunidade como **Desenvolvedor Júnior** ou **Estagiário em Desenvolvimento de Software**.
 
-O currículo foi desenvolvido pensando em:
+## Sobre o currículo
 
-- Visual simples e profissional
-- Responsividade para diferentes dispositivos
-- Organização das informações
-- Facilidade de leitura
-- Impressão e exportação em PDF
-- Estrutura amigável para sistemas de recrutamento e ATS
+O layout foi desenvolvido pensando principalmente em:
 
-O projeto apresenta seções de:
+- boa organização das informações;
+- leitura simples e objetiva;
+- responsividade;
+- impressão em formato A4;
+- exportação para PDF;
+- estrutura adequada para leitura por sistemas ATS.
 
-- Resumo profissional
-- Experiência profissional
-- Formação acadêmica
-- Habilidades técnicas
-- Ferramentas e tecnologias
-- Projetos
-- Idiomas
+O currículo possui seções de resumo profissional, experiência, formação acadêmica, conhecimentos técnicos, projetos e idiomas.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-<div align="center">
+- HTML5
+- CSS3
+- Git
+- GitHub
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 📂 Estrutura
+## Estrutura do projeto
 
 ```text
 curriculo/
@@ -52,7 +42,7 @@ curriculo/
 └── README.md
 ```
 
-## ▶️ Executando o projeto
+## Como executar
 
 Clone o repositório:
 
@@ -60,54 +50,52 @@ Clone o repositório:
 git clone URL_DO_REPOSITORIO
 ```
 
-Entre na pasta do projeto e abra:
+Depois, abra o arquivo:
 
 ```text
 index.html
 ```
 
-Também é possível utilizar o **Live Server** no Visual Studio Code.
+Também é possível executar utilizando o **Live Server** no Visual Studio Code.
 
-## 📄 Gerando o PDF
+## Gerando o currículo em PDF
 
-O currículo possui estilização específica para impressão em formato **A4**.
+O projeto possui estilos específicos para impressão.
 
-No navegador:
+No navegador, utilize:
 
 ```text
 Ctrl + P
 ```
 
-Depois selecione:
+e selecione:
 
 ```text
 Salvar como PDF
 ```
 
-## 🚀 Projeto em destaque
+O layout foi ajustado para impressão em formato **A4**.
+
+## Projeto em destaque
 
 ### Plataforma Web de Aprendizagem Adaptativa com IA
 
-Projeto Full Stack desenvolvido utilizando tecnologias como:
+Projeto Full Stack desenvolvido durante o curso, envolvendo:
 
 `React` • `Node.js` • `Express` • `PostgreSQL` • `Supabase` • `JWT` • `Gemini API`
 
-O sistema possui recursos de autenticação, trilhas de aprendizagem, avaliações e integração com Inteligência Artificial.
+A aplicação possui autenticação de usuários, integração com banco de dados, trilhas de aprendizagem, avaliações e recursos utilizando Inteligência Artificial.
 
-🔗 [Ver projeto no GitHub](https://github.com/silvamicael/SISTEM_LOGIN_SA)
+[Ver repositório no GitHub](https://github.com/silvamicael/SISTEM_LOGIN_SA)
 
-## 📫 Contato
+## Contato
 
 **Micael Schosek Da Silva**
 
 📍 Palhoça - SC  
-📧 micaelmadri@gmail.com  
+📧 [micaelmadri@gmail.com](mailto:micaelmadri@gmail.com)  
 🐙 [github.com/silvamicael](https://github.com/silvamicael)
 
 ---
 
-<div align="center">
-
-Desenvolvido por **Micael Schosek Da Silva** 👨‍💻
-
-</div>
+Desenvolvido por **Micael Schosek Da Silva**
